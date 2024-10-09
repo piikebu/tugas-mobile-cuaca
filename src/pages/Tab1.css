@@ -1,0 +1,36 @@
+
+.text-author {
+    font-size: 14px;
+    color: rgb(136, 136, 136);
+    margin: 0;
+    margin-left: 20px; /* Atur margin kiri sesuai kebutuhan */
+  }
+
+
+/* Card untuk input kota dan tombol pencarian */
+.input-card {
+    margin: 16px; /* Spasi di sekitar card */
+    padding: 16px; /* Spasi di dalam card */
+    background-color: #1a1a1a; /* Warna latar belakang card */
+    border-radius: 8px; /* Membuat sudut card menjadi melingkar */
+    box-shadow: 0 2px 10px rgba(116, 116, 116, 0.1); /* Bayangan untuk efek kedalaman */
+  }
+  
+  /* Gaya untuk input kota */
+  .input-city {
+    margin-bottom: 12px; /* Spasi di bawah input */
+  }
+  
+  /* Gaya untuk tombol pencarian */
+  .search-button {
+    background-color: #6200ea; /* Warna latar belakang tombol */
+    color: #ffffff; /* Warna teks tombol */
+    border-radius: 10px; /* Membuat sudut tombol melingkar */
+    font-weight: bold;
+  }
+  
+  /* Gaya tombol saat hover */
+  .search-button:hover {
+    background-color: #3700b3; /* Warna latar belakang tombol saat hover */
+  }
+  
